@@ -2763,9 +2763,10 @@ h6 {
 /*----------------------------------------------------*/
 /* Testimonials Area css
 ============================================================================================ */
+=========================================================================================== */
 .testimonials_area {
   position: relative;
-  background: black; }
+  background: #edf6ff; }
   .testimonials_area .owl-prev, .testimonials_area .owl-next {
     position: absolute;
     right: 150px;
@@ -2807,7 +2808,7 @@ h6 {
       .testimonials_area .owl-dots .owl-dot:last-child {
         margin-right: 0px; }
       .testimonials_area .owl-dots .owl-dot.active {
-        background: #f08843; }
+        background: #3bacf0; }
 
 .testi_slider {
   margin-top: -30px;
@@ -2842,9 +2843,7 @@ h6 {
     box-shadow: 0px 10px 30px 0px rgba(157, 157, 157, 0.2);
     background: #fff; }
     .testi_item:hover .media .media-body h4 {
-      color: #f08843; }
-
-/* End Testimonials Area css
+      color: #3bacf0; }
 ============================================================================================ */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
