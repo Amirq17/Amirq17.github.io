@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab977e42.chunk.css",
+    "main.js": "/static/js/main.2fcb7554.chunk.js",
+    "main.js.map": "/static/js/main.2fcb7554.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.40d80d34.js",
+    "runtime~main.js.map": "/static/js/runtime~main.40d80d34.js.map",
+    "static/css/2.14686bf5.chunk.css": "/static/css/2.14686bf5.chunk.css",
+    "static/js/2.d7555f5f.chunk.js": "/static/js/2.d7555f5f.chunk.js",
+    "static/js/2.d7555f5f.chunk.js.map": "/static/js/2.d7555f5f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4ae58ca8f2f13fe6a42f1fdf509a6e0.js": "/precache-manifest.c4ae58ca8f2f13fe6a42f1fdf509a6e0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.14686bf5.chunk.css.map": "/static/css/2.14686bf5.chunk.css.map",
+    "static/css/main.ab977e42.chunk.css.map": "/static/css/main.ab977e42.chunk.css.map",
+    "static/media/FULL_CV_AMIR.pdf": "/static/media/FULL_CV_AMIR.329eb642.pdf",
+    "static/media/cloer.png": "/static/media/cloer.405e2f39.png",
+    "static/media/gamestore.png": "/static/media/gamestore.612785cc.png",
+    "static/media/hospital.png": "/static/media/hospital.6aba1cd0.png",
+    "static/media/movie.mp4": "/static/media/movie.67f30e65.mp4",
+    "static/media/pizza.png": "/static/media/pizza.395892c0.png",
+    "static/media/port.gif": "/static/media/port.dcff2c7a.gif",
+    "static/media/prof.png": "/static/media/prof.0d5b19e7.png",
+    "static/media/qr.png": "/static/media/qr.82a78794.png",
+    "static/media/sorbent.png": "/static/media/sorbent.fe6932b1.png",
+    "static/media/tizim.png": "/static/media/tizim.96c8fa58.png"
+  }
+}
